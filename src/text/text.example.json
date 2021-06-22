@@ -1,0 +1,355 @@
+[
+  {
+    "en": "London is the capital of Great__Britain, its political, economic and cultural centre. It's one of the largest cities in the world. Its population is more than million people. London is situated on the river Thames. The city is very old and beautiful. It was founded more than two thousand years ago. Traditionally London is divided into several parts: the City, the West End, the East End and Westminster. The City is the oldest part of London, its financial and business centre. The heart of the City is the Stock Exchange. Westminster is the most important part of the capital. It's the administrative centre. The Houses of Parliament, the seat of the British Government, are there. It's a very beautiful building with two towers and a very big clock called Big Ben. Big Ben is really the bell which strikes every quarter of an hour. Opposite the Houses of Parliament is Westminster Abbey. It's a very beautiful church built over 900 years ago. The tombs of many great statesmen, scientists and writers are there.",
+    "ru": "Лондон - столица Великобритании, ее политический, экономический и культурный центр. Это один из самых больших городов в мире. Население Лондона - более 11 миллионов человек. Лондон находится на реке Темзе. Город очень древний и красивый. Он был основан более чем 2000 лет назад. Традиционно Лондон делится на несколько частей: Сити, Уэст-Энд, Ист-Энд и Вестминстер. Сити - старейшая часть Лондона, его финансовый и коммерческий центр. Сердце Сити - это фондовая биржа. Вестминстер - наиболее важная часть столицы. Это административный центр. Здесь расположено здание пар­ламента, в котором находится британское правительство. Это очень красивое здание с двумя башнями и очень большими часами, которые называются Биг Бен. В действительности Биг Бен - это колокол, который отбивает каждую четверть часа. Напротив здания парламента находится Вестминстерское аббатство. Это очень красивая церковь, построенная более 900 лет назад. Здесь находятся могилы многих великих государственных деятелей, ученых и писателей.",
+    "title": {
+      "ru": "Лондон - столица Великобритании",
+      "en": "London is the capital of Great Britain"
+    },
+    "sentences": {
+      "London is the capital of Great Britain, its political, economic and cultural centre": {
+        "en": "London is the capital of Great Britain, its political, economic and cultural centre",
+        "ru": "Лондон - столица Великобритании, ее политический, экономический и культурный центр"
+      },
+      "It's one of the largest cities in the world": {
+        "en": "It's one of the largest cities in the world",
+        "ru": "Это один из самых больших городов в мире"
+      },
+      "Its population is more than million people": {
+        "en": "Its population is more than million people"
+      },
+      "London is situated on the river Thames": {
+        "en": "London is situated on the river Thames"
+      },
+      "The city is very old and beautiful": {
+        "en": "The city is very old and beautiful"
+      },
+      "It was founded more than two thousand years ago": {
+        "en": "It was founded more than two thousand years ago"
+      },
+      "Traditionally London is divided into several parts: the City, the West End, the East End and Westminster": {
+        "en": "Traditionally London is divided into several parts: the City, the West End, the East End and Westminster"
+      },
+      "The City is the oldest part of London, its financial and business centre": {
+        "en": "The City is the oldest part of London, its financial and business centre"
+      },
+      "The heart of the City is the Stock Exchange": {
+        "en": "The heart of the City is the Stock Exchange"
+      },
+      "Westminster is the most important part of the capital": {
+        "en": "Westminster is the most important part of the capital"
+      },
+      "It's the administrative centre": {
+        "en": "It's the administrative centre"
+      },
+      "The Houses of Parliament, the seat of the British Government, are there": {
+        "en": "The Houses of Parliament, the seat of the British Government, are there"
+      },
+      "It's a very beautiful building with two towers and a very big clock called Big Ben": {
+        "en": "It's a very beautiful building with two towers and a very big clock called Big Ben"
+      },
+      "Big Ben is really the bell which strikes every quarter of an hour": {
+        "en": "Big Ben is really the bell which strikes every quarter of an hour"
+      },
+      "Opposite the Houses of Parliament is Westminster Abbey": {
+        "en": "Opposite the Houses of Parliament is Westminster Abbey"
+      },
+      "It's a very beautiful church built over 900 years ago": {
+        "en": "It's a very beautiful church built over 900 years ago"
+      },
+      "The tombs of many great statesmen, scientists and writers are there": {
+        "en": "The tombs of many great statesmen, scientists and writers are thered"
+      }
+    },
+    "words": {
+      "London": {
+        "en": "London",
+        "ru": "Лондон"
+      },
+      "is": {
+        "en": "is"
+      },
+      "the": {
+        "en": "the"
+      },
+      "capital": {
+        "en": "capital",
+        "ru": "центр"
+      },
+      "of": {
+        "en": "of"
+      },
+      "Great Britain": {
+        "en": "Great Britain",
+        "ru": "Великобритания"
+      },
+      "its": {
+        "en": "its"
+      },
+      "political": {
+        "en": "political"
+      },
+      "economic": {
+        "en": "economic"
+      },
+      "and": {
+        "en": "and"
+      },
+      "cultural": {
+        "en": "cultural"
+      },
+      "centre": {
+        "en": "centre"
+      },
+      "It's": {
+        "en": "It's"
+      },
+      "one": {
+        "en": "one"
+      },
+      "largest": {
+        "en": "largest"
+      },
+      "cities": {
+        "en": "cities"
+      },
+      "in": {
+        "en": "in"
+      },
+      "world": {
+        "en": "world"
+      },
+      "Its": {
+        "en": "Its"
+      },
+      "population": {
+        "en": "population"
+      },
+      "more": {
+        "en": "more"
+      },
+      "than": {
+        "en": "than"
+      },
+      "million": {
+        "en": "million"
+      },
+      "people": {
+        "en": "people"
+      },
+      "situated": {
+        "en": "situated"
+      },
+      "on": {
+        "en": "on"
+      },
+      "river": {
+        "en": "river"
+      },
+      "Thames": {
+        "en": "Thames"
+      },
+      "The": {
+        "en": "The"
+      },
+      "city": {
+        "en": "city"
+      },
+      "very": {
+        "en": "very"
+      },
+      "old": {
+        "en": "old"
+      },
+      "beautiful": {
+        "en": "beautiful"
+      },
+      "It": {
+        "en": "It"
+      },
+      "was": {
+        "en": "was"
+      },
+      "founded": {
+        "en": "founded"
+      },
+      "two": {
+        "en": "two"
+      },
+      "thousand": {
+        "en": "thousand"
+      },
+      "years": {
+        "en": "years"
+      },
+      "ago": {
+        "en": "ago"
+      },
+      "Traditionally": {
+        "en": "Traditionally"
+      },
+      "divided": {
+        "en": "divided"
+      },
+      "into": {
+        "en": "into"
+      },
+      "several": {
+        "en": "several"
+      },
+      "parts:": {
+        "en": "parts:"
+      },
+      "City": {
+        "en": "City"
+      },
+      "West": {
+        "en": "West"
+      },
+      "End": {
+        "en": "End"
+      },
+      "East": {
+        "en": "East"
+      },
+      "Westminster": {
+        "en": "Westminster"
+      },
+      "oldest": {
+        "en": "oldest"
+      },
+      "part": {
+        "en": "part"
+      },
+      "financial": {
+        "en": "financial"
+      },
+      "business": {
+        "en": "business"
+      },
+      "heart": {
+        "en": "heart"
+      },
+      "Stock": {
+        "en": "Stock"
+      },
+      "Exchange": {
+        "en": "Exchange"
+      },
+      "most": {
+        "en": "most"
+      },
+      "important": {
+        "en": "important"
+      },
+      "administrative": {
+        "en": "administrative"
+      },
+      "Houses": {
+        "en": "Houses"
+      },
+      "Parliament": {
+        "en": "Parliament"
+      },
+      "seat": {
+        "en": "seat"
+      },
+      "British": {
+        "en": "British"
+      },
+      "Government": {
+        "en": "Government"
+      },
+      "are": {
+        "en": "are"
+      },
+      "there": {
+        "en": "there"
+      },
+      "a": {
+        "en": "a"
+      },
+      "building": {
+        "en": "building"
+      },
+      "with": {
+        "en": "with"
+      },
+      "towers": {
+        "en": "towers"
+      },
+      "big": {
+        "en": "big"
+      },
+      "clock": {
+        "en": "clock"
+      },
+      "called": {
+        "en": "called"
+      },
+      "Big": {
+        "en": "Big"
+      },
+      "Ben": {
+        "en": "Ben"
+      },
+      "really": {
+        "en": "really"
+      },
+      "bell": {
+        "en": "bell"
+      },
+      "which": {
+        "en": "which"
+      },
+      "strikes": {
+        "en": "strikes"
+      },
+      "every": {
+        "en": "every"
+      },
+      "quarter": {
+        "en": "quarter"
+      },
+      "an": {
+        "en": "an"
+      },
+      "hour": {
+        "en": "hour"
+      },
+      "Opposite": {
+        "en": "Opposite"
+      },
+      "Abbey": {
+        "en": "Abbey"
+      },
+      "church": {
+        "en": "church"
+      },
+      "built": {
+        "en": "built"
+      },
+      "over": {
+        "en": "over"
+      },
+      "tombs": {
+        "en": "tombs"
+      },
+      "many": {
+        "en": "many"
+      },
+      "great": {
+        "en": "great"
+      },
+      "statesmen": {
+        "en": "statesmen"
+      },
+      "scientists": {
+        "en": "scientists"
+      },
+      "writers": {
+        "en": "writers"
+      }
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "123",
+    "en": "food",
+    "ru": "еда",
+    "ua": "їжа",
+    "description": "gnlker jklerjgerkljgnrejg;erkjg;lo ;l l;nfglkrhglkierj"
+  },
+  {
+    "id": "1234",
+    "en": "Verbs",
+    "ru": "глаголы",
+    "ua": "дієслова",
+    "description": "Verbsssssssssss",
+    "isGameCategory": true
+  }
+]

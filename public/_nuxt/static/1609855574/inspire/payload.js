@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/inspire", {data:[{}],fetch:[{_error:{message:"Cannot read property '$get' of undefined",statusCode:500}}],mutations:[]});
