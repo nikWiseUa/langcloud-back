@@ -8,18 +8,21 @@ import { ProfileModule } from './profile/profile.module';
 import { WordsModule } from './words/words.module';
 import { TextModule } from './text/text.module';
 import { GameModule } from './game/game.module';
+import { ConfigModule } from '@nestjs/config';
 
 @Module({
   imports: [
     AuthModule,
     SharedModule,
-    MongooseModule.forRoot('mongodb://127.0.0.1:27017/test1'),
     ProfileModule,
     WordsModule,
     TextModule,
     GameModule,
+    ConfigModule.forRoot(),
+    MongooseModule.forRoot(process.env.LINK),
   ],
   controllers: [AppController],
   providers: [AppService],
 })
 export class AppModule {}
+console.log(process.env.LINK);
