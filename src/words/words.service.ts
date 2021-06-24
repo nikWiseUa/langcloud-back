@@ -47,6 +47,14 @@ export class WordsService {
     }
     return words;
   }
+  async findInTestCategory(catrgoryId: string): Promise<Word[]> {
+    const words = await this.wordModel.aggregate([
+      { $match: { catrgoryId } },
+      { $sample: { size: 15 } },
+    ]);
+
+    return words;
+  }
 
   async findByText(text): Promise<Word[]> {
     const rx = new RegExp(`.*${text}.*`, 'i');

@@ -28,6 +28,8 @@ export class WordsController {
         req.cookies.token,
         id,
       );
+    } else if (type === 'test') {
+      words = await this.wordsService.findInTestCategory(id);
     } else {
       words = await this.wordsService.findByCategory(id);
     }
@@ -50,7 +52,6 @@ export class WordsController {
   @Get('content')
   getByContent(@Query('content') content: string): Promise<Word> {
     const word = this.wordsService.findByContent(content);
-    console.log(word);
 
     return word;
   }
